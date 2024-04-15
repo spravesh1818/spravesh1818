@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Pravesh 👋
+
+I'm a software engineer driven by a passion for crafting robust, scalable applications. Armed with over three years of industry experience, I boast a solid proficiency across multiple programming languages and technologies. I thrive on projects that push the boundaries, demanding critical thinking and problem-solving skills. Beyond coding, I love diving into the latest tech trends or immersing myself in the world of video games. Welcome to my GitHub account, and thank you for stopping by!
 
 <!--
 **spravesh1818/spravesh1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
